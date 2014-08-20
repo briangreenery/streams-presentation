@@ -1,0 +1,16 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "A set of examples for a presentation on streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Green",
+  "license": "ISC",
+  "dependencies": {
+    "base64-stream": "^0.1.2",
+    "colors": "^0.6.2",
+    "event-stream": "^3.1.7"
+  }
+}
